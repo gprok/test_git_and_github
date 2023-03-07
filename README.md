@@ -1,10 +1,6 @@
 # An app to test Git and GitHub
 
-1. aaa
-1. bbb 
-1. ccc
-
-- qqq
-- vvv 
+This project is useless and it is only for practicing git.  
+Don't use it for real work ...   
 
 
